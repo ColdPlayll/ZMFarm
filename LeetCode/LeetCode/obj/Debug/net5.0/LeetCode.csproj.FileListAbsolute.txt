@@ -1,0 +1,16 @@
+D:\A\算法\LeetCode\LeetCode\bin\Debug\net5.0\LeetCode.exe
+D:\A\算法\LeetCode\LeetCode\bin\Debug\net5.0\LeetCode.deps.json
+D:\A\算法\LeetCode\LeetCode\bin\Debug\net5.0\LeetCode.runtimeconfig.json
+D:\A\算法\LeetCode\LeetCode\bin\Debug\net5.0\LeetCode.runtimeconfig.dev.json
+D:\A\算法\LeetCode\LeetCode\bin\Debug\net5.0\LeetCode.dll
+D:\A\算法\LeetCode\LeetCode\bin\Debug\net5.0\ref\LeetCode.dll
+D:\A\算法\LeetCode\LeetCode\bin\Debug\net5.0\LeetCode.pdb
+D:\A\算法\LeetCode\LeetCode\obj\Debug\net5.0\LeetCode.csproj.AssemblyReference.cache
+D:\A\算法\LeetCode\LeetCode\obj\Debug\net5.0\LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\A\算法\LeetCode\LeetCode\obj\Debug\net5.0\LeetCode.AssemblyInfoInputs.cache
+D:\A\算法\LeetCode\LeetCode\obj\Debug\net5.0\LeetCode.AssemblyInfo.cs
+D:\A\算法\LeetCode\LeetCode\obj\Debug\net5.0\LeetCode.csproj.CoreCompileInputs.cache
+D:\A\算法\LeetCode\LeetCode\obj\Debug\net5.0\LeetCode.dll
+D:\A\算法\LeetCode\LeetCode\obj\Debug\net5.0\ref\LeetCode.dll
+D:\A\算法\LeetCode\LeetCode\obj\Debug\net5.0\LeetCode.pdb
+D:\A\算法\LeetCode\LeetCode\obj\Debug\net5.0\LeetCode.genruntimeconfig.cache
