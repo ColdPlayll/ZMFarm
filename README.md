@@ -39,7 +39,7 @@ ___
 游戏中的NPC具备各自的日程，会在特定的时间去往特定的地点，拥有不同的对话，执行不同的动作，NPC可以售卖物品。
 | 游戏功能介绍   | GIF |
 | :-------: | :---: | 
-|   日程  | ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/npc.gif?raw=true) |
+|   日程  | ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/npc_1.gif?raw=true) |
 |   对话  | ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/duihua.gif?raw=true) |
 #### （5）家具建造
 在游戏中使用家具图纸，并且背包中有足够的材料，既可在地图上建造家具（包含储物箱）。
