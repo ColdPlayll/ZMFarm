@@ -19,8 +19,8 @@ ___
 游戏实现了背包和储物箱之间的交换功能（拖拽）、在商店购买和出售物品的功能，其中储物箱具备独立的数据。<br>
 | Name    | GIF |
 | ------- | --- | 
-| 背包及储物箱| ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/beibao.gif) |
-| 商店| ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/shangdian.gif) |
+| 背包及储物箱| ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/beibao.gif?raw=true) |
+| 商店| ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/shangdian.gif?raw=true) |
 #### （2）砍树、挖矿、割草
 在游戏中可以在物品栏选择（点击、快捷键）斧头、稿子、镰刀分别进行砍树、挖矿、割草，并会生成不同的种类、数量的物品，玩家拾取的物品会被添加到背包中。
 
