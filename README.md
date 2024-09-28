@@ -39,13 +39,13 @@ ___
 游戏中的NPC具备各自的日程，会在特定的时间去往特定的地点，拥有不同的对话，执行不同的动作，NPC可以售卖物品。
 | 游戏功能介绍   | GIF |
 | :-------: | :---: | 
-|   日程  | ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/duihua.gif?raw=true) |
+|   日程  | ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/npc.gif?raw=true) |
 |   对话  | ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/duihua.gif?raw=true) |
 #### （5）家具建造
 在游戏中使用家具图纸，并且背包中有足够的材料，既可在地图上建造家具（包含储物箱）。
 | 游戏功能介绍   | GIF |
 | :-------: | :---: | 
-|   建造家具  | ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/jiaju.gif?raw=true) |
+|   建造家具  | ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/jianzao.gif?raw=true) |
 #### （6）昼夜交替
 游戏实现了昼夜交替系统，在特定时间游戏会进入夜晚，同时游戏中的灯光会逐渐亮起。
 | 游戏功能介绍   | GIF |
@@ -55,8 +55,8 @@ ___
 游戏提供了三个独立的存档，在游戏过程中返回标题即可保存当前进度，在主界面选择对应进度将会读取进度，无论是场景中的掉落物、庄稼、树木、杂草、储物箱、昼夜以及NPC的状态都会被读取。
 | 游戏功能介绍   | GIF |
 | :-------: | :---: | 
-|   加载进度  | ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/baocun.gif?raw=true) |
-|   开始新游戏  | ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/baocun.gif?raw=true) |
+|   加载进度  | ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/cundang.gif?raw=true) |
+|   开始新游戏  | ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/xinyouxi.gif?raw=true) |
 #### （8）开场动画
 | 游戏功能介绍   | GIF |
 | :-------: | :---: | 
