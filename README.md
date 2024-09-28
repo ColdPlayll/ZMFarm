@@ -26,7 +26,7 @@ ___
 | 背包及储物箱| ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/beibao.gif?raw=true) |
 | 商店| ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/shangdian.gif?raw=true) |
 #### （3）拾取、丢弃物品
-在游戏中可以在物品栏选择（点击、快捷键）斧头、稿子、镰刀分别进行砍树、挖矿、割草，并会生成不同的种类、数量的物品，玩家拾取的物品会被添加到背包中。
+在游戏中可以在物品栏选择物品，点击地面（丢弃范围内）物品会被丢出，玩家移动到物品附近会拾取物品。
 | 游戏功能介绍   | GIF |
 | :-------: | :---: | 
 |   丢弃物品  | ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/diuqi.gif?raw=true) |
