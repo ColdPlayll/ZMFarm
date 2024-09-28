@@ -2,10 +2,8 @@
 ## 一、说明
 ___
 
-本仓库包含`main`和`code`两个分支
+     main/ZMFarmMono:可运行文件
 
-    main/ZMFarmMono:可运行文件
-    code/ZmFarmProject:源工程
 
 **当前分支为** `main`
 ___
