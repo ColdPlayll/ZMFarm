@@ -20,7 +20,7 @@ ___
 | Name    | GIF |
 | ------- | --- | 
 | 割草| ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/test.gif) |
-| 割草| ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/Start.gif?raw=true) |
+| 开场动画| ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/Start.gif) |
 
  
 
