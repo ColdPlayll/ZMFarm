@@ -19,7 +19,9 @@ ___
 游戏实现了背包和储物箱之间的交换功能（拖拽）、在商店购买和出售物品的功能，其中储物箱具备独立的数据。<br>
 | Name    | GIF |
 | ------- | --- | 
-| 割草| ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/test.gif?raw=true)  
+| 割草| ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/test.gif) |
+| 割草| ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/Start.gif?raw=true) |
+
  
 
 #### （2）砍树、挖矿、割草
