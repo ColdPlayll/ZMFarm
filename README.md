@@ -60,7 +60,7 @@ ___
 #### （8）开场动画
 | 游戏功能介绍   | GIF |
 | :-------: | :---: | 
-|   开场动画  | ![image](![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/kaichangdonghua.gif?raw=true)) |
+|   开场动画  | ![image](https://github.com/ColdPlayll/Gif/blob/main/ZMFarm/kaichangdonghua.gif?raw=true) |
 
 
 
